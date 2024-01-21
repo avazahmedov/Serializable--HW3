@@ -1,0 +1,17 @@
+[ {
+  "name" : "Yurii",
+  "age" : 28,
+  "gpa" : 3.0
+}, {
+  "name" : "Aleksei",
+  "age" : 24,
+  "gpa" : 3.0
+}, {
+  "name" : "Maksim",
+  "age" : 26,
+  "gpa" : 4.0
+}, {
+  "name" : "Oleg",
+  "age" : 30,
+  "gpa" : 3.0
+} ]

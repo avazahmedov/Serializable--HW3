@@ -1,0 +1,22 @@
+<ArrayList>
+  <item>
+    <name>Yurii</name>
+    <age>28</age>
+    <gpa>3.0</gpa>
+  </item>
+  <item>
+    <name>Aleksei</name>
+    <age>24</age>
+    <gpa>3.0</gpa>
+  </item>
+  <item>
+    <name>Maksim</name>
+    <age>26</age>
+    <gpa>4.0</gpa>
+  </item>
+  <item>
+    <name>Oleg</name>
+    <age>30</age>
+    <gpa>3.0</gpa>
+  </item>
+</ArrayList>
